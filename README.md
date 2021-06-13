@@ -1,6 +1,14 @@
 # Laravel-graphql-vuejs-authentication
 Authentication System built using Laravel, GraphQL and Vue js.
 
+## Requirements
+1. Laravel 8
+2. Vue JS v3
+3. Mysql 
+
+## Laravel Graph Client
+1. graphql-laravel
+
 ## How to Run backend
 
 1. Clone the project.
@@ -13,3 +21,4 @@ Authentication System built using Laravel, GraphQL and Vue js.
 ## How to run frontend
 1. Go to the frontend directory, open a terminal and paste it "npm install"
 2. Then run "npm run dev" to run the frontend. Project will run on 127.0.0.1:8080
+
